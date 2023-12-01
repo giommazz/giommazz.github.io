@@ -107,9 +107,10 @@ author:
   name             : "Gabriele Iommazzo"
   avatar           : "/images/fuji.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Postdoc at the Zuse Institute Berlin, working at the intersection of machine learning and convex optimization."
-  location         : "Berlin"
+  location         : "Berlin, DE"
   email            : "iommazzo@zib.de"
   googlescholar    : "https://scholar.google.com/citations?user=YUGK_ZIAAAAJ&hl=it"
+  linkedin         : "https://www.linkedin.com/in/gabriele-iommazzo-1351814a/"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
