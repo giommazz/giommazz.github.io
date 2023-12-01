@@ -109,7 +109,7 @@ author:
   bio              : "Postdoc at the Zuse Institute Berlin, working at the intersection of machine learning and convex optimization."
   location         : "Berlin"
   email            : "iommazzo@zib.de"
-  googlescholar    : "https://scholar.google.com/citations?user=YUGK_ZIAAAAJ&hl=it"
+  googlescholar    : "YUGK_ZIAAAAJ"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
