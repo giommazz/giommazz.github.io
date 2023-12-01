@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -20,7 +20,7 @@ title                    : "GABRIELE IOMMAZZO" # Site title
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Gabriele Iommazzo" # Your name
-description              : "An amazing website."
+description              : "My website."
 url                      : "https://giommazz.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "giommazz/giommazz.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -105,9 +105,8 @@ analytics:
 # Site Author
 author:
   name             : "Gabriele Iommazzo"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a postdoc in the IOL Group at the Zuse Institute Berlin (ZIB), working with Sebastian Pokutta. My main research interests lie at the intersection of machine learning and mathematical optimization. Recently I have been working on algorithms for convex optimization algorithms, in particular Conditional Gradient (aka Frank-Wolfe) ones. 
-Before my current position, I was a PhD candidate in the OptimiX team at the Laboratoire D'Informatique de l'X (LIX, Ecole Polytechnique), supervised by Claudia D'Ambrosio, Antonio Frangioni and Leo Liberti. My PhD thesis, titled \"Algorithmic Configuration by Learning and Optimization\" was about optimization over trained machine learning predictors in mathematical programs, and distance geometry. Prior to this, I obtained my MSc in Data Science and Business Informatics at Università di Pisa. I am from Rome, Italy. In my free time, I enjoy rock climbing, mountains, cooking and Dungeons & Dragons."
+  avatar           : "assets/images/fuji" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Postdoc at the Zuse Institute Berlin, working at the intersection of machine learning and convex optimization."
   location         : "Somewhere"
   email            :
   links:
