@@ -232,6 +232,14 @@
         </li>
       {% endif %}
 
+      {% if author.googlescholar %}
+        <li>
+	  <a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true" style="padding-right: 1.5em;">
+            </i>Google Scholar
+	  </a>
+	</li>
+      {% endif %}
+
       {% if author.vine %}
         <li>
           <a href="https://vine.co/u/{{ author.vine }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
