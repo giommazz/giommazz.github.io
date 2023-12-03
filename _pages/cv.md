@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can download a PDF copy of my CV [here](/files/pdf/gabriele_iommazzo.pdf).
+You can download a PDF copy of my CV [here](/files/gabriele_iommazzo.pdf).
