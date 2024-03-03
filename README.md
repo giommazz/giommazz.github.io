@@ -1,10 +1,7 @@
 # giommazz.github.io
-:triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
-
-My personal website, built with the Minimal Mistakes Jekill theme.
+My [personal website](https://giommazz.github.io/), built with the Minimal Mistakes theme for Jekyll.
 
 # HOW TO
-
 
 ## Git clone and initial setup
 1) First, use this link [https://github.com/mmistakes/minimal-mistakes/fork](https://github.com/mmistakes/minimal-mistakes/fork) to fork the Minimal Mistakes theme
@@ -57,7 +54,7 @@ Useful info:
 
 
 # RESOURCES
-Webpages that I used to create [my website](https://giommazz.github.io/), plan to use to improve it, and inspired me to put together the above guidelines:
+Webpages that I used to create my website, plan to use to improve it, and inspired me to put together the above guidelines:
    *	[https://jayrobwilliams.com/posts/2020/06/academic-website/](https://jayrobwilliams.com/posts/2020/06/academic-website/)
    *	[https://jayrobwilliams.com/posts/2020/08/website-content/](https://jayrobwilliams.com/posts/2020/08/website-content/)
    *	[https://jayrobwilliams.com/posts/2020/07/customizing-website/](https://jayrobwilliams.com/posts/2020/07/customizing-website/)
