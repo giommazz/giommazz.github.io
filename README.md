@@ -44,10 +44,10 @@ Useful info:
 * The **landing page** can be changed by editing the `_pages/about.md` file
 * **sidebar information** and **general info** are determined in the `_config.yml` file.
   Important keywords in `_config.yml`:
-  ** `title`: your website title
-  ** `name`: your name
-  ** `url`: `https://<GITHUB_USERNAME>.github.io`
-  ** `baseurl`: ""
-  ** `repository`: `"<GITHUB_USERNAME>/<GITHUB_USERNAME>.github.io"`
+  * `title`: your website title
+  * `name`: your name
+  * `url`: `https://<GITHUB_USERNAME>.github.io`
+  * `baseurl`: ""
+  * `repository`: `"<GITHUB_USERNAME>/<GITHUB_USERNAME>.github.io"`
 * To **add sections** to the website, add `.md` files to the `_pages` directory. Also, every time you add a section, make sure to add it to `_data/navigation.yml`, which contains the **backbone of your website**
 * To **override css info** (font, font size, etc.), edit `assets/css/main.css`
