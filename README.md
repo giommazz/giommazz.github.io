@@ -51,3 +51,13 @@ Useful info:
   * `repository`: `"<GITHUB_USERNAME>/<GITHUB_USERNAME>.github.io"`
 * To **add sections** to the website, add `.md` files to the `_pages` directory. Also, every time you add a section, make sure to add it to `_data/navigation.yml`, which contains the **backbone of your website**
 * To **override css info** (font, font size, etc.), edit `assets/css/main.css`
+
+# RESOURCES
+Webpages that I used to create [my website](https://giommazz.github.io/), plan to use to improve it, and inspire me to put together the above guidelines:
+*	[https://jayrobwilliams.com/posts/2020/06/academic-website/](https://jayrobwilliams.com/posts/2020/06/academic-website/)
+*	[https://jayrobwilliams.com/posts/2020/08/website-content/](https://jayrobwilliams.com/posts/2020/08/website-content/)
+*	[https://jayrobwilliams.com/posts/2020/07/customizing-website/](https://jayrobwilliams.com/posts/2020/07/customizing-website/)
+*	[https://github.com/jayrobwilliams/jayrobwilliams.github.io/tree/master](https://github.com/jayrobwilliams/jayrobwilliams.github.io/tree/master)
+*	[https://www.cross-validated.com/Personal-website-with-Minimal-Mistakes-Jekyll-Theme-HOWTO-Part-II/](https://www.cross-validated.com/Personal-website-with-Minimal-Mistakes-Jekyll-Theme-HOWTO-Part-II/)
+*	[https://medium.com/@tienduy/build-your-personal-website-without-spending-any-money-30e6b2264e08](https://medium.com/@tienduy/build-your-personal-website-without-spending-any-money-30e6b2264e08)
+*	[https://naiyanjones.com/technology/optimising-website-images-with-python/](https://naiyanjones.com/technology/optimising-website-images-with-python/) for image optimization
