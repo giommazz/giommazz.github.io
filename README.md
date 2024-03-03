@@ -57,7 +57,7 @@ Useful info:
 
 
 # RESOURCES
-Webpages that I used to create [my website](https://giommazz.github.io/), plan to use to improve it, and inspire me to put together the above guidelines:
+Webpages that I used to create [my website](https://giommazz.github.io/), plan to use to improve it, and inspired me to put together the above guidelines:
    *	[https://jayrobwilliams.com/posts/2020/06/academic-website/](https://jayrobwilliams.com/posts/2020/06/academic-website/)
    *	[https://jayrobwilliams.com/posts/2020/08/website-content/](https://jayrobwilliams.com/posts/2020/08/website-content/)
    *	[https://jayrobwilliams.com/posts/2020/07/customizing-website/](https://jayrobwilliams.com/posts/2020/07/customizing-website/)
