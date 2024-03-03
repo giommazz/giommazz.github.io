@@ -35,7 +35,7 @@ git add _config.yml
 git commit -m "commit message"
 git push
 ```
-8) Finally, let's go online: go back to the `Settings` page of your GitHub repo `https://github.com/<GITHUB_USERNAME>/<GITHUB_USERNAME>.github.io.`
+8) Finally, let's go online: go back to the `Settings` page of your GitHub repo `https://github.com/<GITHUB_USERNAME>/<GITHUB_USERNAME>.github.io.`: change the repository name to `<GITHUB_USERNAME>.github.io`. `GITHUB_USERNAME` has to exactly match your GitHub username.
 
 ## Website structure and how to add/edit content
 Now, all of the actual content of your site is contained in `.md` (Markdown) files. Most of these files live in the `_pages` directory. 
