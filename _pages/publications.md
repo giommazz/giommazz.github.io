@@ -37,7 +37,7 @@ author_profile: true
 - **A Cycle-based Formulation for the Distance Geometry Problem**  
   L. Liberti, G. Iommazzo, C. Lavor, N. Maculan (2020)  
   *AIRO Springer Series*, vol 5. Springer, Cham.  
-  [[DOI]](https://doi.org/10.1007/978-3-030-63072-0_8){:target="_blank"} | [PDF](http://www.lix.polytechnique.fr/Labo/Gabriele.Iommazzo/a_cycle-based_formulation_for_the_dg_problem_CTW20.pdf){:target="_blank"} | 
+  [[DOI]](https://doi.org/10.1007/978-3-030-63072-0_8){:target="_blank"} | [[PDF]](http://www.lix.polytechnique.fr/Labo/Gabriele.Iommazzo/a_cycle-based_formulation_for_the_dg_problem_CTW20.pdf){:target="_blank"} | 
   <a href="javascript:void(0)" onclick="toggleBibtex('bibtex-lil20', 'copy-btn-lil20')" style="text-decoration: none; color: #006400;">[BibTeX]</a> 
   <button id="copy-btn-lil20" onclick="copyBibtex('bibtex-lil20', 'copy-btn-lil20')" style="display:none; background:none; border:none; color: #006400; cursor:pointer;">&#128203; copy</button>
   
@@ -175,7 +175,7 @@ author_profile: true
 
 - **Algorithmic Configuration by Learning and Optimization**  
   G. Iommazzo (2021)  
-  [PDF](https://giommazz.github.io/files/phd_thesis_iommazzo.pdf) | 
+  [[PDF]](https://giommazz.github.io/files/phd_thesis_iommazzo.pdf) | 
   <a href="javascript:void(0)" onclick="toggleBibtex('bibtex-iom21', 'copy-btn-iom21')" style="text-decoration: none; color: #006400;">[BibTeX]</a> 
   <button id="copy-btn-iom21" onclick="copyBibtex('bibtex-iom21', 'copy-btn-iom21')" style="display:none; background:none; border:none; color: #006400; cursor:pointer;">&#128203; copy</button>
 
