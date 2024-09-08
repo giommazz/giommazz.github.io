@@ -9,10 +9,10 @@ author_profile: true
 
 ## International Journals
 
-- **Cycle-based Formulations in Distance Geometry**  
-  **L. Liberti, G. Iommazzo, C. Lavor, N. Maculan (2023)**  
-  *Open Journal of Mathematical Optimization*, Volume 4, article no. 1, 16 p.  
-  [PDF](https://doi.org/10.5802/ojmo.18) | [ArXiv](https://arxiv.org/abs/2006.11523) | 
+- Cycle-based Formulations in Distance Geometry  
+  L. Liberti, G. Iommazzo, C. Lavor, N. Maculan  
+  *Open Journal of Mathematical Optimization*, Volume 4, article no. 1, 16 p. (2023)  
+  [DOI](https://doi.org/10.5802/ojmo.18) | [ArXiv](https://arxiv.org/abs/2006.11523) | 
   <button onclick="toggleBibtex('bibtex-lil23')" style="background:none; border:none; color:blue; cursor:pointer;">[BibTeX]</button> | 
   <button id="copy-btn-lil23" onclick="copyBibtex('bibtex-lil23', 'copy-btn-lil23')" style="background:none; border:none; color:blue; cursor:pointer;">&#128203; copy</button>
   
@@ -47,9 +47,9 @@ function toggleBibtex(id) {
 function copyBibtex(bibtexId, buttonId) {
   var bibtexText = document.getElementById(bibtexId).getElementsByTagName('pre')[0].innerText;
   navigator.clipboard.writeText(bibtexText).then(function() {
-    // Change the button text to "copied!"
+    // Change the button text to "copied!" but keep the icon
     var copyButton = document.getElementById(buttonId);
-    copyButton.innerHTML = 'copied!';
+    copyButton.innerHTML = '&#128203; copied!';
   }).catch(function() {
     alert('Failed to copy BibTeX');
   });
