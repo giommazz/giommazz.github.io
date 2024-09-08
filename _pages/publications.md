@@ -171,31 +171,6 @@ author_profile: true
 
 ---
 
-## PhD Thesis
-
-- **Algorithmic Configuration by Learning and Optimization**  
-  G. Iommazzo (2021)  
-  [PDF](https://giommazz.github.io/files/phd_thesis_iommazzo.pdf) | 
-  <a href="javascript:void(0)" onclick="toggleBibtex('bibtex-iom21', 'copy-btn-iom21')" style="text-decoration: none; color: #006400;">[BibTeX]</a> 
-  <button id="copy-btn-iom21" onclick="copyBibtex('bibtex-iom21', 'copy-btn-iom21')" style="display:none; background:none; border:none; color: #006400; cursor:pointer;">&#128203; copy</button>
-
-  <div id="bibtex-iom21" style="display:none; padding: 10px; border: 1px solid #ddd; margin-top: 10px; font-family: monospace; font-size: 12px; background-color: #d3d3d3; color: black; max-width: 600px; max-height: 150px; overflow: auto;">
-    <pre>
-@phdthesis{Iom21,
-  title = {{Algorithmic configuration by learning and optimization}},
-  author = {Gabriele Iommazzo},
-  url = {https://giommazz.github.io/files/phd_thesis_iommazzo.pdf},
-  number = {2021IPPAX105},
-  school = {{Institut Polytechnique de Paris ; Universit{\`a} degli studi di (PisA, Italy)}},
-  year = {2021},
-  month = {Dec},
-  keywords = {Algorithm configuration ; Machine learning ; Mathematical programming ; Optimization solvers ; Distance geometry ; Parameter tuning ; Configuration des algorithmes ; Apprentissage machine ; Programmation math{\'e}matique ; Solveurs d'optimisation ; G{\'e}om{\'e}trie des distances},
-  type = {Theses},
-  hal_id = {tel-03592551},
-  hal_version = {v1}
-    }
-    </pre>
-  </div>
 
 
 
