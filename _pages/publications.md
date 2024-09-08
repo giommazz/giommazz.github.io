@@ -175,7 +175,7 @@ author_profile: true
 
 - **Algorithmic Configuration by Learning and Optimization**  
   G. Iommazzo (2021)  
-  [[PDF]](https://giommazz.github.io/files/phd_thesis_iommazzo.pdf) | 
+  [[PDF]](https://giommazz.github.io/files/phd_thesis_iommazzo.pdf){:target="_blank"} | 
   <a href="javascript:void(0)" onclick="toggleBibtex('bibtex-iom21', 'copy-btn-iom21')" style="text-decoration: none; color: #006400;">[BibTeX]</a> 
   <button id="copy-btn-iom21" onclick="copyBibtex('bibtex-iom21', 'copy-btn-iom21')" style="display:none; background:none; border:none; color: #006400; cursor:pointer;">&#128203; copy</button>
 
