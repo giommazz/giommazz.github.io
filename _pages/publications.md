@@ -13,10 +13,10 @@ author_profile: true
   L. Liberti, G. Iommazzo, C. Lavor, N. Maculan  
   *Open Journal of Mathematical Optimization*, Volume 4, article no. 1, 16 p. (2023)  
   [[DOI]](https://doi.org/10.5802/ojmo.18) | [[ArXiv]](https://arxiv.org/abs/2006.11523) | 
-  <button onclick="toggleBibtex('bibtex-lil23')" style="background:none; border:none; color:blue; cursor:pointer;">[BibTeX]</button> | 
-  <button id="copy-btn-lil23" onclick="copyBibtex('bibtex-lil23', 'copy-btn-lil23')" style="background:none; border:none; color:blue; cursor:pointer;">&#128203; copy</button>
+  <button onclick="toggleBibtex('bibtex-lil23', 'copy-btn-lil23')" style="background:none; border:none; color:blue; cursor:pointer;">[BibTeX]</button> 
+  <button id="copy-btn-lil23" onclick="copyBibtex('bibtex-lil23', 'copy-btn-lil23')" style="display:none; background:none; border:none; color:blue; cursor:pointer;">&#128203; copy</button>
   
-  <div id="bibtex-lil23" style="display:none; padding: 10px; border: 1px solid #ddd; margin-top: 10px; font-family: monospace; font-size: 12px; max-width: 600px; max-height: 60px; overflow: visible;">
+  <div id="bibtex-lil23" style="display:none; padding: 10px; border: 1px solid #ddd; margin-top: 10px; font-family: monospace; font-size: 12px; background-color: #f9f9cc; max-width: 600px; max-height: 150px; overflow: auto;">
     <pre>
 @article{LIL+23,
      author = {Leo Liberti and Gabriele Iommazzo and Carlile Lavor and Nelson Maculan},
@@ -35,12 +35,16 @@ author_profile: true
   </div>
 
 <script>
-function toggleBibtex(id) {
-  var x = document.getElementById(id);
-  if (x.style.display === "none") {
-    x.style.display = "block";
+function toggleBibtex(bibtexId, buttonId) {
+  var bibtexBox = document.getElementById(bibtexId);
+  var copyButton = document.getElementById(buttonId);
+
+  if (bibtexBox.style.display === "none") {
+    bibtexBox.style.display = "block";
+    copyButton.style.display = "inline";  // Show the copy button when BibTeX is visible
   } else {
-    x.style.display = "none";
+    bibtexBox.style.display = "none";
+    copyButton.style.display = "none";  // Hide the copy button when BibTeX is hidden
   }
 }
 
