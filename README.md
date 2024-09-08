@@ -51,7 +51,9 @@ Useful info:
 * To **add sections** to the website, add `.md` files to the `_pages` directory. Also, every time you add a section, make sure to add it to `_data/navigation.yml`, which contains the **backbone of your website**
 * To **override css info** (font, font size, etc.), edit `assets/css/main.css`
 
-
+## TODOs
+* add hyperlinks in the "About" section
+* Search engine optimization
 
 # RESOURCES
 Webpages that I used to create my website, plan to use to improve it, and inspired me to put together the above guidelines:
