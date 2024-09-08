@@ -54,6 +54,7 @@ Useful info:
 ## TODOs
 * add hyperlinks in the "About" section
 * Search engine optimization
+* Add Talks, supervision, teaching
 
 # RESOURCES
 Webpages that I used to create my website, plan to use to improve it, and inspired me to put together the above guidelines:
