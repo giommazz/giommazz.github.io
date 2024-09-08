@@ -1,12 +1,17 @@
 ---
 permalink: /
-title: "About"
-excerpt: "About"
+title: "Gabriele Iommazzo - Postdoctoral Researcher in Optimization"
+excerpt: "Learn more about Gabriele Iommazzo, a postdoctoral researcher at the Zuse Institute Berlin, focusing on convex optimization and machine learning applications."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+description: "Gabriele Iommazzo is a postdoctoral researcher at the Zuse Institute Berlin, specializing in convex optimization and first-order methods like Frank-Wolfe algorithms."
 ---
+
+
+
+
 
 I am currently a postdoctoral researcher in the IOL Group at the Zuse Institute Berlin, where I work with Sebastian Pokutta among others. Before joining ZIB, I completed a joint PhD in Computer Science at École Polytechnique, France, and Università di Pisa, Italy, mentored by Claudia D’Ambrosio, Antonio Frangioni and Leo Liberti. I hold an MSc in Data Science and Business Informatics from Università di Pisa.  
 I was fortunate to receive the "Premio Lorenzo Brunetta", awarded to the best PhD thesis in operations research obtained in the years 2019--2021.
