@@ -142,6 +142,60 @@ author_profile: true
 
 ---
 
+## Book Chapters
+
+- **The Algorithm Configuration Problem**  
+  G. Iommazzo, C. D'Ambrosio, A. Frangioni, L. Liberti (2023)  
+  In: P.M. Pardalos, O.A. Prokopyev (eds), *Encyclopedia of Optimization*. Springer, Cham.  
+  [[DOI]](https://doi.org/10.1007/978-3-030-54621-2_749-1){:target="_blank"} | [[ArXiv]](https://arxiv.org/abs/2403.00898){:target="_blank"} | 
+  <a href="javascript:void(0)" onclick="toggleBibtex('bibtex-idf23', 'copy-btn-idf23')" style="text-decoration: none; color: #006400;">[BibTeX]</a> 
+  <button id="copy-btn-idf23" onclick="copyBibtex('bibtex-idf23', 'copy-btn-idf23')" style="display:none; background:none; border:none; color: #006400; cursor:pointer;">&#128203; copy</button>
+  
+  <div id="bibtex-idf23" style="display:none; padding: 10px; border: 1px solid #ddd; margin-top: 10px; font-family: monospace; font-size: 12px; background-color: #d3d3d3; color: black; max-width: 600px; max-height: 150px; overflow: auto;">
+    <pre>
+@Inbook{IDF+23,
+    author = {Gabriele Iommazzo and Claudia D'Ambrosio and Antonio Frangioni and Leo Liberti},
+    editor = {Pardalos, Panos M. and Prokopyev, Oleg A.},
+    title = {{Algorithm Configuration Problem}},
+    bookTitle = {Encyclopedia of Optimization},
+    year = {2023},
+    publisher = {Springer International Publishing},
+    address = {Cham},
+    pages = {1--8},
+    isbn = {978-3-030-54621-2},
+    doi = {10.1007/978-3-030-54621-2_749-1},
+    url = {https://doi.org/10.1007/978-3-030-54621-2_749-1}
+    }
+    </pre>
+  </div>
+
+---
+
+## PhD Thesis
+
+- **Algorithmic Configuration by Learning and Optimization**  
+  G. Iommazzo (2021)  
+  [PDF](https://giommazz.github.io/files/phd_thesis_iommazzo.pdf) | 
+  <a href="javascript:void(0)" onclick="toggleBibtex('bibtex-iom21', 'copy-btn-iom21')" style="text-decoration: none; color: #006400;">[BibTeX]</a> 
+  <button id="copy-btn-iom21" onclick="copyBibtex('bibtex-iom21', 'copy-btn-iom21')" style="display:none; background:none; border:none; color: #006400; cursor:pointer;">&#128203; copy</button>
+
+  <div id="bibtex-iom21" style="display:none; padding: 10px; border: 1px solid #ddd; margin-top: 10px; font-family: monospace; font-size: 12px; background-color: #d3d3d3; color: black; max-width: 600px; max-height: 150px; overflow: auto;">
+    <pre>
+@phdthesis{Iom21,
+  title = {{Algorithmic configuration by learning and optimization}},
+  author = {Gabriele Iommazzo},
+  url = {https://giommazz.github.io/files/phd_thesis_iommazzo.pdf},
+  number = {2021IPPAX105},
+  school = {{Institut Polytechnique de Paris ; Universit{\`a} degli studi di (PisA, Italy)}},
+  year = {2021},
+  month = {Dec},
+  keywords = {Algorithm configuration ; Machine learning ; Mathematical programming ; Optimization solvers ; Distance geometry ; Parameter tuning ; Configuration des algorithmes ; Apprentissage machine ; Programmation math{\'e}matique ; Solveurs d'optimisation ; G{\'e}om{\'e}trie des distances},
+  type = {Theses},
+  hal_id = {tel-03592551},
+  hal_version = {v1}
+    }
+    </pre>
+  </div>
 
 
 
