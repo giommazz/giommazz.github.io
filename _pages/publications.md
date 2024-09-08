@@ -10,7 +10,7 @@ author_profile: true
 ## Conference Proceedings
 
 - **A Learning-based Mathematical Programming Formulation for the Automatic Configuration of Optimization Solvers**  
-  G. Iommazzo, C. D'Ambrosio, A. Frangioni, L. Liberti (2021)  
+  G. Iommazzo, C. D'Ambrosio, A. Frangioni, L. Liberti (2020)  
   *Lecture Notes in Computer Science*, vol 12565. Springer, Cham.  
   [[DOI]](https://doi.org/10.1007/978-3-030-64583-0_61){:target="_blank"} | [[ArXiv]](https://arxiv.org/abs/2401.04237){:target="_blank"} | 
   <a href="javascript:void(0)" onclick="toggleBibtex('bibtex-idf20b', 'copy-btn-idf20b')" style="text-decoration: none; color: #006400;">[BibTeX]</a> 
@@ -34,7 +34,7 @@ author_profile: true
 
 ---
 
-- **A Cycle-based Formulation for the Distance Geometry Problem**
+- **A Cycle-based Formulation for the Distance Geometry Problem**  
   L. Liberti, G. Iommazzo, C. Lavor, N. Maculan (2020)  
   *AIRO Springer Series*, vol 5. Springer, Cham.  
   [[DOI]](https://doi.org/10.1007/978-3-030-63072-0_8){:target="_blank"} | [PDF](http://www.lix.polytechnique.fr/Labo/Gabriele.Iommazzo/a_cycle-based_formulation_for_the_dg_problem_CTW20.pdf){:target="_blank"} | 
@@ -60,7 +60,7 @@ author_profile: true
 
 ---
 
-- **Learning to Configure Mathematical Programming Solvers by Mathematical Programming**
+- **Learning to Configure Mathematical Programming Solvers by Mathematical Programming**  
   G. Iommazzo, C. D'Ambrosio, A. Frangioni, L. Liberti (2020)  
   *Lecture Notes in Computer Science*, vol 12096. Springer, Cham.  
   [[DOI]](https://doi.org/10.1007/978-3-030-53552-0_34){:target="_blank"} | [[ArXiv]](https://arxiv.org/abs/2401.05041){:target="_blank"} | 
@@ -85,13 +85,9 @@ author_profile: true
 
 ---
 
-
-
-
-
 ## International Journals
 
-- **Improved local models and new Bell inequalities via Frank-Wolfe algorithms**
+- **Improved local models and new Bell inequalities via Frank-Wolfe algorithms**  
   S. Designolle, G. Iommazzo, M. Besançon, S. Knebel, P. Gelß, S. Pokutta (2023)  
   *Phys. Rev. Research*, Volume 5, 043059, 6 p. (2023)  
   [[DOI]](https://doi.org/10.1103/PhysRevResearch.5.043059){:target="_blank"} | [[ArXiv]](https://arxiv.org/abs/2302.04721){:target="_blank"} | 
@@ -119,7 +115,7 @@ author_profile: true
 
 ---
 
-- **Cycle-based Formulations in Distance Geometry**
+- **Cycle-based Formulations in Distance Geometry**  
   L. Liberti, G. Iommazzo, C. Lavor, N. Maculan  
   *Open Journal of Mathematical Optimization*, Volume 4, article no. 1, 16 p. (2023)  
   [[DOI]](https://doi.org/10.5802/ojmo.18){:target="_blank"} | [[ArXiv]](https://arxiv.org/abs/2006.11523){:target="_blank"} | 
@@ -145,7 +141,6 @@ author_profile: true
   </div>
 
 ---
-
 
 
 
