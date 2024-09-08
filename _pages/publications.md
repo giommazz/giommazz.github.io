@@ -9,12 +9,38 @@ author_profile: true
 
 ## International Journals
 
+- Improved local models and new Bell inequalities via Frank-Wolfe algorithms  
+  S. Désignolle, G. Iommazzo, M. Besançon, S. Knebel, P. Gelß, S. Pokutta  
+  *Phys. Rev. Research*, Volume 5, 043059, 6 p. (2023)  
+  [[DOI]](https://doi.org/10.1103/PhysRevResearch.5.043059){:target="_blank"} | [[ArXiv]](https://arxiv.org/abs/2302.04721){:target="_blank"} | 
+  <a href="javascript:void(0)" onclick="toggleBibtex('bibtex-dib23', 'copy-btn-dib23')" style="text-decoration: none; color: #006400;">[BibTeX]</a> 
+  <button id="copy-btn-dib23" onclick="copyBibtex('bibtex-dib23', 'copy-btn-dib23')" style="display:none; background:none; border:none; color: #006400; cursor:pointer;">&#128203; copy</button>
+
+  <div id="bibtex-dib23" style="display:none; padding: 10px; border: 1px solid #ddd; margin-top: 10px; font-family: monospace; font-size: 12px; background-color: #d3d3d3; color: black; max-width: 600px; max-height: 150px; overflow: auto;">
+    <pre>
+@article{DIB+23,
+  title = {Improved local models and new Bell inequalities via Frank-Wolfe algorithms},
+  author = {Designolle, S\'ebastien and Iommazzo, Gabriele and Besan\ifmmode \mbox{\c{c}}\else \c{c}\fi{}on, Mathieu and Knebel, Sebastian and Gel\ss{}, Patrick and Pokutta, Sebastian},
+  journal = {Phys. Rev. Res.},
+  volume = {5},
+  issue = {4},
+  pages = {043059},
+  numpages = {6},
+  year = {2023},
+  month = {Oct},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevResearch.5.043059},
+  url = {https://link.aps.org/doi/10.1103/PhysRevResearch.5.043059}
+    }
+    </pre>
+  </div>
+
 - Cycle-based Formulations in Distance Geometry  
   L. Liberti, G. Iommazzo, C. Lavor, N. Maculan  
   *Open Journal of Mathematical Optimization*, Volume 4, article no. 1, 16 p. (2023)  
   [[DOI]](https://doi.org/10.5802/ojmo.18){:target="_blank"} | [[ArXiv]](https://arxiv.org/abs/2006.11523){:target="_blank"} | 
-  <a href="javascript:void(0)" onclick="toggleBibtex('bibtex-lil23', 'copy-btn-lil23')" style="text-decoration: none; color: #228B22;">[BibTeX]</a> 
-  <button id="copy-btn-lil23" onclick="copyBibtex('bibtex-lil23', 'copy-btn-lil23')" style="display:none; background:none; border:none; color: #228B22; cursor:pointer;">&#128203; copy</button>
+  <a href="javascript:void(0)" onclick="toggleBibtex('bibtex-lil23', 'copy-btn-lil23')" style="text-decoration: none; color: #006400;">[BibTeX]</a> 
+  <button id="copy-btn-lil23" onclick="copyBibtex('bibtex-lil23', 'copy-btn-lil23')" style="display:none; background:none; border:none; color: #006400; cursor:pointer;">&#128203; copy</button>
   
   <div id="bibtex-lil23" style="display:none; padding: 10px; border: 1px solid #ddd; margin-top: 10px; font-family: monospace; font-size: 12px; background-color: #d3d3d3; color: black; max-width: 600px; max-height: 150px; overflow: auto;">
     <pre>
@@ -33,6 +59,7 @@ author_profile: true
     }
     </pre>
   </div>
+
 
 <script>
 function toggleBibtex(bibtexId, buttonId) {
