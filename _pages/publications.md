@@ -199,7 +199,7 @@ author_profile: true
 
 
 
-
+<!-- Script to manage BibTex icons -->
 <script>
 function toggleBibtex(bibtexId, buttonId) {
   var bibtexBox = document.getElementById(bibtexId);
