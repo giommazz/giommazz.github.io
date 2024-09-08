@@ -89,7 +89,7 @@ author_profile: true
 
 - **Improved local models and new Bell inequalities via Frank-Wolfe algorithms**  
   S. Designolle, G. Iommazzo, M. Besançon, S. Knebel, P. Gelß, S. Pokutta (2023)  
-  *Phys. Rev. Research*, Volume 5, 043059, 6 p. (2023)  
+  *Phys. Rev. Research*, Volume 5, 043059, 6 p.  
   [[DOI]](https://doi.org/10.1103/PhysRevResearch.5.043059){:target="_blank"} | [[ArXiv]](https://arxiv.org/abs/2302.04721){:target="_blank"} | 
   <a href="javascript:void(0)" onclick="toggleBibtex('bibtex-dib23', 'copy-btn-dib23')" style="text-decoration: none; color: #006400;">[BibTeX]</a> 
   <button id="copy-btn-dib23" onclick="copyBibtex('bibtex-dib23', 'copy-btn-dib23')" style="display:none; background:none; border:none; color: #006400; cursor:pointer;">&#128203; copy</button>
@@ -116,8 +116,8 @@ author_profile: true
 ---
 
 - **Cycle-based Formulations in Distance Geometry**  
-  L. Liberti, G. Iommazzo, C. Lavor, N. Maculan  
-  *Open Journal of Mathematical Optimization*, Volume 4, article no. 1, 16 p. (2023)  
+  L. Liberti, G. Iommazzo, C. Lavor, N. Maculan (2023)  
+  *Open Journal of Mathematical Optimization*, Volume 4, article no. 1, 16 p.   
   [[DOI]](https://doi.org/10.5802/ojmo.18){:target="_blank"} | [[ArXiv]](https://arxiv.org/abs/2006.11523){:target="_blank"} | 
   <a href="javascript:void(0)" onclick="toggleBibtex('bibtex-lil23', 'copy-btn-lil23')" style="text-decoration: none; color: #006400;">[BibTeX]</a> 
   <button id="copy-btn-lil23" onclick="copyBibtex('bibtex-lil23', 'copy-btn-lil23')" style="display:none; background:none; border:none; color: #006400; cursor:pointer;">&#128203; copy</button>
