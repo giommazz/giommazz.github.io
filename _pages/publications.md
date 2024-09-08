@@ -186,7 +186,7 @@ author_profile: true
   author = {Gabriele Iommazzo},
   url = {https://giommazz.github.io/files/phd_thesis_iommazzo.pdf},
   number = {2021IPPAX105},
-  school = {{Institut Polytechnique de Paris ; Universit{\`a} degli studi di (PisA, Italy)}},
+  school = {{Institut Polytechnique de Paris ; Universit{{\`a}} degli studi di (Pisa, Italy)}},
   year = {2021},
   month = {Dec},
   keywords = {Algorithm configuration ; Machine learning ; Mathematical programming ; Optimization solvers ; Distance geometry ; Parameter tuning ; Configuration des algorithmes ; Apprentissage machine ; Programmation math{\'e}matique ; Solveurs d'optimisation ; G{\'e}om{\'e}trie des distances},
