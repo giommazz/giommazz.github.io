@@ -9,7 +9,7 @@ author_profile: true
 
 ## Conference Proceedings
 
-- **A Learning-based Mathematical Programming Formulation for the Automatic Configuration of Optimization Solvers**
+- **A Learning-based Mathematical Programming Formulation for the Automatic Configuration of Optimization Solvers**  
   G. Iommazzo, C. D'Ambrosio, A. Frangioni, L. Liberti (2021)  
   *Lecture Notes in Computer Science*, vol 12565. Springer, Cham.  
   [[DOI]](https://doi.org/10.1007/978-3-030-64583-0_61){:target="_blank"} | [[ArXiv]](https://arxiv.org/abs/2401.04237){:target="_blank"} | 
@@ -145,3 +145,34 @@ author_profile: true
   </div>
 
 ---
+
+
+
+
+
+<script>
+function toggleBibtex(bibtexId, buttonId) {
+  var bibtexBox = document.getElementById(bibtexId);
+  var copyButton = document.getElementById(buttonId);
+
+  if (bibtexBox.style.display === "none") {
+    bibtexBox.style.display = "block";
+    copyButton.style.display = "inline";  // Show the copy button when BibTeX is visible
+  } else {
+    bibtexBox.style.display = "none";
+    copyButton.style.display = "none";  // Hide the copy button when BibTeX is hidden
+  }
+}
+
+function copyBibtex(bibtexId, buttonId) {
+  var bibtexText = document.getElementById(bibtexId).getElementsByTagName('pre')[0].innerText;
+  navigator.clipboard.writeText(bibtexText).then(function() {
+    // Change the button text to "copied!" but keep the icon
+    var copyButton = document.getElementById(buttonId);
+    copyButton.innerHTML = '&#128203; copied!';
+  }).catch(function() {
+    alert('Failed to copy BibTeX');
+  });
+}
+</script>
+
