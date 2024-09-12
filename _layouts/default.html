@@ -12,6 +12,9 @@
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+
+    <!-- Google Search Console Verification -->
+    <meta name="google-site-verification" content="_wDTYQrKjnW6igKUNMQFF1VRw_zqfj2lqvQ7levhw6g" />
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
@@ -36,8 +39,9 @@
     </div>
 
     {% include scripts.html %}
-    <script async src="https://cse.google.com/cse.js?cx=43f73934c0f75400e">
-    </script>
+    
+    <!-- Google Custom Search Engine Script -->
+    <script async src="https://cse.google.com/cse.js?cx=43f73934c0f75400e"></script>
 
   </body>
 </html>
