@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gabriele Iommazzo - Postdoctoral Researcher in Optimization"
+title: "About me"
 excerpt: "Gabriele Iommazzo, postdoctoral researcher at the Zuse Institute Berlin focusing on convex optimization and machine learning applications."
 author_profile: true
 redirect_from: 
