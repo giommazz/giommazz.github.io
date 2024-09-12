@@ -12,6 +12,7 @@
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    <div class="gcse-search"></div>
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
@@ -36,6 +37,8 @@
     </div>
 
     {% include scripts.html %}
+    <script async src="https://cse.google.com/cse.js?cx=43f73934c0f75400e">
+    </script>
 
   </body>
 </html>
