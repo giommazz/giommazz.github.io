@@ -127,8 +127,8 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      icon: "fab fa-fw fa-github"   # This uses the GitHub Font Awesome icon
+      url: "https://github.com/giommazz"  # Replace with your actual GitHub profile link
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
