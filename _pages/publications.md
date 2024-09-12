@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publicationss"
+title: "Publications by Gabriele Iommazzo"
 permalink: /publications/
 author_profile: true
 description: "Publications by Gabriele Iommazzo on topics including convex optimization, Frank-Wolfe algorithms, and machine learning."
