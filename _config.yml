@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Gabriele Iommazzo"
-  avatar           : "/images/fuji.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : <img src="/images/fuji.jpeg" alt="Gabriele Iommazzo, Postdoctoral Researcher"> # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Postdoc at the Zuse Institute Berlin, working at the intersection of machine learning and convex optimization."
   location         : "Berlin, DE"
   email            : "iommazzo@zib.de"
