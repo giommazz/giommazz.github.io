@@ -37,6 +37,22 @@ html {
   }
 }
 
+/* Increase base font size */
+body {
+    font-size: 18px; /* Increase the base font size (default might be 16px) */
+    line-height: 1.6; /* Adjust line height for better readability */
+}
+
+/* Specific adjustments to headers */
+h1, h2, h3 {
+    font-size: 1.2em; /* Increase header sizes as needed */
+}
+
+/* Adjust paragraph font size */
+p {
+    font-size: 1.1em; /* Adjust font size for paragraphs */
+}
+
 /*
 Change size of profile avatar in left sidebar
 */
