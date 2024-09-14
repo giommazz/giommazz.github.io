@@ -35,6 +35,7 @@ My [personal website](https://giommazz.github.io/), built with the Minimal Mista
    ```
 7) Finally, let's go online: go back to the `Settings` page of your GitHub repo `https://github.com/<GITHUB_USERNAME>/<GITHUB_USERNAME>.github.io.`: change the repository name to `<GITHUB_USERNAME>.github.io`. `GITHUB_USERNAME` has to exactly match your GitHub username.
 
+8) SEO. Make sure that: `search` is `true`; `search_provider` is set to, say, `google`; you set `google: search_engine_id` and `google_site_verification` (you have to go on Google Custom Search for the first and Google Search Console for the second, and "register" the homepage URL)
 
 ## Website structure and how to add/edit content
 Now, all of the actual content of your site is contained in `.md` (Markdown) files. Most of these files live in the `_pages` directory. 
