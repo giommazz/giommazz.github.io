@@ -1,12 +1,12 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "Gabriele Iommazzo, postdoctoral researcher at the Zuse Institute Berlin focusing on convex optimization and machine learning applications."
+excerpt: "Gabriele Iommazzo, postdoctoral researcher (postdoc) at the Zuse Institute Berlin (ZIB, zib) focusing on convex optimization, Frank-Wolfe (conditional gradients), with applications in machine learning (ML), quantum information theory. Other areas of experise: mathematical programming (MP), embedding/integrating ML predictors into mathematical programming formulations, algorithm configuration, distance geometry. Worked with Sebastian Pokutta, Leo Liberti, Antonio Frangioni, Claudia D'Ambrosio, Shimrit Shtern, Pavel Dvurechensky, Mathias Staudigl. PhD in France, Palaiseau, Ecole Polytechnique, Institut Polytechnique de Paris (l'X, LIX). MSc in Pisa"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-description: "Gabriele Iommazzo is a postdoctoral researcher at the Zuse Institute Berlin specializing in convex optimization, Frank-Wolfe algorithms, and the integration of machine learning in optimization."
+description: "Gabriele Iommazzo, postdoctoral researcher (postdoc) at the Zuse Institute Berlin (ZIB, zib) focusing on convex optimization, Frank-Wolfe (conditional gradients), with applications in machine learning (ML), quantum information theory. Other areas of experise: mathematical programming (MP), embedding/integrating ML predictors into mathematical programming formulations, algorithm configuration, distance geometry. Worked with Sebastian Pokutta, Leo Liberti, Antonio Frangioni, Claudia D'Ambrosio, Shimrit Shtern, Pavel Dvurechensky, Mathias Staudigl. PhD in France, Palaiseau, Ecole Polytechnique, Institut Polytechnique de Paris (l'X, LIX). MSc in Pisa"
 ---
 
 
@@ -30,7 +30,7 @@ Check out my [Publications](/publications/) page for more details on my research
     "@type": "Organization",
     "name": "Zuse Institute Berlin"
   },
-  "description": "Gabriele Iommazzo is a postdoctoral researcher specializing in convex optimization and Frank-Wolfe algorithms.",
+  "description": "Gabriele Iommazzo, postdoctoral researcher (postdoc) at the Zuse Institute Berlin (ZIB, zib) focusing on convex optimization, Frank-Wolfe (conditional gradients), with applications in machine learning (ML), quantum information theory. Other areas of experise: mathematical programming (MP), embedding/integrating ML predictors into mathematical programming formulations, algorithm configuration, distance geometry. Worked with Sebastian Pokutta, Leo Liberti, Antonio Frangioni, Claudia D'Ambrosio, Shimrit Shtern, Pavel Dvurechensky, Mathias Staudigl. PhD in France, Palaiseau, Ecole Polytechnique, Institut Polytechnique de Paris (l'X, LIX). MSc in Pisa",
   "url": "https://giommazz.github.io",
   "email": "iommazzo@zib.de",
   "sameAs": [
