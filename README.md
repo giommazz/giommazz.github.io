@@ -53,8 +53,7 @@ Useful info:
 * To **override css info** (font, font size, etc.), edit `assets/css/main.css`
 
 ## TODOs
-* add hyperlinks in the "About" section
-* Search engine optimization
+* SEO: https://jsinibardy.com/optimize-seo-jekyll
 * Add Talks, supervision, teaching
 
 # RESOURCES
