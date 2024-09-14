@@ -3,7 +3,7 @@ layout: archive
 title: "Publications by Gabriele Iommazzo"
 permalink: /publications/
 author_profile: true
-description: "Publications by Gabriele Iommazzo on topics including convex optimization, Frank-Wolfe algorithms, and machine learning."
+description: "Publications by Gabriele Iommazzo. Topics: convex optimization, Frank-Wolfe (conditional gradients), with applications in machine learning (ML), quantum information theory. Other areas of expertise: mathematical programming (MP), embedding/integrating ML predictors into mathematical programming formulations, data-driven optimization, learning-based optimization, algorithm configuration, distance geometry. Worked with Sebastian Pokutta, Leo Liberti, Antonio Frangioni, Claudia D'Ambrosio, Shimrit Shtern, Pavel Dvurechensky, Mathias Staudigl. PhD in France, Palaiseau, Ecole Polytechnique, Institut Polytechnique de Paris (l'X, LIX). MSc in Pisa"
 ---
 
 
