@@ -112,3 +112,18 @@ code { padding: .25em .5em; font-size: 85%; color: #C04343; background-color: #F
 .highlight .c  { color: #707070; }
 /* Name.Builtin */
 .highlight .nc { color: #008538; }
+
+
+
+/* Increase width of content area */
+.page__content {
+    max-width: 1000px; /* Adjust this value as needed */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Make sure sidebar and content area align well */
+.author__avatar {
+    width: 150px; /* Adjust if needed */
+    height: 150px; /* Adjust if needed */
+}
