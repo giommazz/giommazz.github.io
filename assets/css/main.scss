@@ -95,25 +95,3 @@ code { padding: .25em .5em; font-size: 85%; color: #C04343; background-color: #F
 .highlight .c  { color: #707070; }
 /* Name.Builtin */
 .highlight .nc { color: #008538; }
-
-
-
-
-/* Increase width of content area */
-.page__content {
-    max-width: 90%; /* Change to 90% of the screen width */
-    margin-left: auto;
-    margin-right: auto;
-}
-
-@media screen and (min-width: 1200px) {
-    .page__content {
-        max-width: 90%; /* Maintain 90% width for larger screens */
-    }
-}
-
-@media screen and (max-width: 1200px) {
-    .page__content {
-        max-width: 95%; /* Ensure it's also responsive for smaller screens */
-    }
-}
