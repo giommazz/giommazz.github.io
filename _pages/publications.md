@@ -12,7 +12,7 @@ description: "Publications by Gabriele Iommazzo. Topics: convex optimization, Fr
 
 - **A Learning-based Mathematical Programming Formulation for the Automatic Configuration of Optimization Solvers**  
   G. Iommazzo, C. D'Ambrosio, A. Frangioni, L. Liberti   
-  *Lecture Notes in Computer Science*, vol 12565. Springer, Cham. (2020)  
+  *LOD2020*  
   [[DOI]](https://doi.org/10.1007/978-3-030-64583-0_61){:target="_blank"} | [[ArXiv]](https://arxiv.org/abs/2401.04237){:target="_blank"} | 
   <a href="javascript:void(0)" onclick="toggleBibtex('bibtex-idf20b', 'copy-btn-idf20b')" style="text-decoration: none; color: #006400;">[BibTeX]</a> 
   <button id="copy-btn-idf20b" onclick="copyBibtex('bibtex-idf20b', 'copy-btn-idf20b')" style="display:none; background:none; border:none; color: #006400; cursor:pointer;">&#128203; copy</button>
@@ -37,7 +37,7 @@ description: "Publications by Gabriele Iommazzo. Topics: convex optimization, Fr
 
 - **A Cycle-based Formulation for the Distance Geometry Problem**  
   L. Liberti, G. Iommazzo, C. Lavor, N. Maculan   
-  *AIRO Springer Series*, vol 5. Springer, Cham. (2020)  
+  *CTW2020*  
   [[DOI]](https://doi.org/10.1007/978-3-030-63072-0_8){:target="_blank"} | [[PDF]](http://www.lix.polytechnique.fr/Labo/Gabriele.Iommazzo/a_cycle-based_formulation_for_the_dg_problem_CTW20.pdf){:target="_blank"} | 
   <a href="javascript:void(0)" onclick="toggleBibtex('bibtex-lil20', 'copy-btn-lil20')" style="text-decoration: none; color: #006400;">[BibTeX]</a> 
   <button id="copy-btn-lil20" onclick="copyBibtex('bibtex-lil20', 'copy-btn-lil20')" style="display:none; background:none; border:none; color: #006400; cursor:pointer;">&#128203; copy</button>
@@ -63,7 +63,7 @@ description: "Publications by Gabriele Iommazzo. Topics: convex optimization, Fr
 
 - **Learning to Configure Mathematical Programming Solvers by Mathematical Programming**  
   G. Iommazzo, C. D'Ambrosio, A. Frangioni, L. Liberti   
-  *Lecture Notes in Computer Science*, vol 12096. Springer, Cham. (2020)  
+  *LION2020*  
   [[DOI]](https://doi.org/10.1007/978-3-030-53552-0_34){:target="_blank"} | [[ArXiv]](https://arxiv.org/abs/2401.05041){:target="_blank"} | 
   <a href="javascript:void(0)" onclick="toggleBibtex('bibtex-idf20a', 'copy-btn-idf20a')" style="text-decoration: none; color: #006400;">[BibTeX]</a> 
   <button id="copy-btn-idf20a" onclick="copyBibtex('bibtex-idf20a', 'copy-btn-idf20a')" style="display:none; background:none; border:none; color: #006400; cursor:pointer;">&#128203; copy</button>
