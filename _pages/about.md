@@ -11,7 +11,7 @@ description: "Gabriele Iommazzo, postdoctoral researcher (postdoc) at the Zuse I
 
 
 
-I am currently a postdoctoral researcher in the IOL Group at the Zuse Institute Berlin, where I work with Sebastian Pokutta among others. Before joining ZIB, I completed a joint PhD in Computer Science at École Polytechnique, France, and Università di Pisa, Italy, mentored by Claudia D’Ambrosio, Antonio Frangioni and Leo Liberti. I hold an MSc in Data Science and Business Informatics from Università di Pisa.  
+I am currently a postdoctoral researcher in the [IOL Group](https://iol.zib.de/){:target="_blank"} at the Zuse Institute Berlin, where I work with [Sebastian Pokutta](https://www.pokutta.com/){:target="_blank"} among others. Before joining ZIB, I completed a joint PhD in Computer Science at École Polytechnique, France, and Università di Pisa, Italy, mentored by [Claudia D’Ambrosio](https://www.lix.polytechnique.fr/Labo/Claudia.D'Ambrosio/){:target="_blank"}, [Antonio Frangioni](https://pages.di.unipi.it/frangio/){:target="_blank"} and [Leo Liberti](https://www.lix.polytechnique.fr/Labo/Leo.Liberti/){:target="_blank"}. I hold an MSc in Data Science and Business Informatics from Università di Pisa.  
 I was fortunate to receive the "Premio Lorenzo Brunetta", awarded to the best PhD thesis in operations research obtained in the years 2019--2021.
 
 # Research
