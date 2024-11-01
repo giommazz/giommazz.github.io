@@ -32,12 +32,12 @@ html {
 
 /* Increase body font size */
 body {
-    line-height: 1.8; /* Adjust line height for better readability */
+    line-height: 1.6; /* Adjust line height for better readability */
 }
 
 /* Adjust specific elements if needed */
 h1 {
-    font-size: 2.5em; /* Larger header */
+    font-size: 2.25em; /* Larger header */
 }
 
 h2 {
@@ -54,7 +54,44 @@ p, li {
 
 
 
+/* Custom layout adjustments for columns */
 
+/* Target the overall layout grid */
+.layout__sidebar-left,
+.layout__main,
+.layout__sidebar-right {
+display: flex;
+flex-direction: column;
+}
+
+/* Make the left sidebar smaller */
+.layout__sidebar-left {
+flex-basis: 20%; /* Adjust the width of the left sidebar */
+max-width: 200px; /* Optional max-width if needed */
+}
+
+/* Make the main content area larger */
+.layout__main {
+flex-basis: 60%; /* Set the main content width */
+max-width: 800px; /* Optional max-width if needed */
+}
+
+/* Make the right sidebar smaller */
+.layout__sidebar-right {
+flex-basis: 20%; /* Adjust the width of the right sidebar */
+max-width: 200px; /* Optional max-width if needed */
+}
+
+/* Ensure the layout adapts well on smaller screens */
+@media screen and (max-width: 768px) {
+.layout__sidebar-left,
+.layout__sidebar-right {
+display: none; /* Hide sidebars on smaller screens for readability */
+}
+.layout__main {
+flex-basis: 100%; /* Expand main content to full width */
+}
+}
 
 
 
