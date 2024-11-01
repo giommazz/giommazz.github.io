@@ -16,10 +16,11 @@ Previously, I completed a joint PhD in Computer Science at École Polytechnique,
 I was fortunate to receive the "Premio Lorenzo Brunetta", awarded to the best PhD thesis in operations research obtained in the years 2019--2021.
 
 # Research
-My research focuses on convex optimization, with a strong emphasis on first-order methods. I am interested in Frank-Wolfe algorithms for solving convex problems with structured constraints. My aim is to contribute to both the theoretical understanding of these methods and their application to real-world optimization challenges.  
-During my PhD, I also explored the integration of machine learning predictors into mathematical programming formulations and the distance geometry problem.  
+My research focuses on convex optimization, with a strong emphasis on first-order methods. Recently I have been working with Frank-Wolfe algorithms for solving convex problems with structured constraints. My aim is to contribute to both the theoretical understanding of these methods and their application to real-world optimization challenges.  
+During my PhD, I explored the integration of machine learning predictors into mixed-integer (non)linear problems, and mathematical programming (in particular, the distance geometry problem).  
 
-Check out my [papers](/publications/) page for more details on my research.
+My PhD thesis is [Algorithmic Configuration by Learning and Optimization](https://giommazz.github.io/files/phd_thesis_iommazzo.pdf){:target="_blank"}
+For mor details on my research, check out my [papers](/publications/) page, my [CV](/files/gabriele_iommazzo_cv_academic.pdf){:target="_blank"} or my [Google Scholar](https://scholar.google.com/citations?user=YUGK_ZIAAAAJ&hl=it){:target="_blank"}.
 
 <script type="application/ld+json">
 {
