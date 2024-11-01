@@ -20,13 +20,13 @@ Increase font sizes of the entire website.
 html {
   font-size: 12px; /* Base font size; increase as needed */
   @include breakpoint($medium) {
-    font-size: 16px; /* Adjust for medium screens */
+    font-size: 14px; /* Adjust for medium screens */
   }
   @include breakpoint($large) {
-    font-size: 18px; /* Adjust for large screens */
+    font-size: 16px; /* Adjust for large screens */
   }
   @include breakpoint($x-large) {
-    font-size: 20px; /* Adjust for extra-large screens */
+    font-size: 28px; /* Adjust for extra-large screens */
   }
 }
 
