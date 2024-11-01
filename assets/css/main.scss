@@ -13,12 +13,9 @@ Override any CSS with new CSS styles AFTER the `@import "minimal-mistakes";` lin
 Anything you place after this point will therefore "cascade and override" the previous CSS styles.
 */
 
-/*
-Increase font sizes of the entire website.
-*/
-
+/* Increase font sizes of the entire website */
 html {
-  font-size: 12px; /* Base font size; increase as needed */
+  font-size: 13px; /* Base font size; increase as needed */
   @include breakpoint($medium) {
     font-size: 13px; /* Adjust for medium screens */
   }
@@ -32,44 +29,44 @@ html {
 
 /* Increase body font size */
 body {
-    line-height: 1.6; /* Adjust line height for better readability */
+  line-height: 1.6; /* Adjust line height for better readability */
 }
 
 /* Adjust specific elements if needed */
 h1 {
-    font-size: 2em; /* Larger header */
+  font-size: 2em; /* Larger header */
 }
 
 h2 {
-    font-size: 1.75em; /* Adjust as needed */
+  font-size: 1.75em; /* Adjust as needed */
 }
 
 h3 {
-    font-size: 1.5em; /* Adjust as needed */
+  font-size: 1.5em; /* Adjust as needed */
 }
 
 p, li {
-    font-size: 1.1em; /* Adjust paragraph and list font size */
+  font-size: 1.1em; /* Adjust paragraph and list font size */
 }
 
 /* Custom layout adjustments for columns */
 
-/* Make the left sidebar smaller */
+/* Make the left sidebar narrower */
 .layout__sidebar-left {
   flex-basis: 15%; /* Make the left sidebar smaller */
-  max-width: 180px;
+  max-width: 150px; /* Reduce max-width */
+  padding-right: 20px; /* Add some padding for spacing */
 }
 
-/* Make the main content area larger */
+/* Make the main content area wider */
 .layout__main {
-  flex-basis: 70%; /* Give more space to main content */
-  max-width: 1200px; /* Increase the maximum width of main content */
+  flex-basis: 80%; /* Give more space to main content */
+  max-width: 1000px; /* Increase max-width for main content */
 }
 
-/* Make the right sidebar smaller */
+/* Right sidebar (if present) */
 .layout__sidebar-right {
-  flex-basis: 15%; /* Make the right sidebar smaller */
-  max-width: 180px;
+  flex-basis: 5%; /* Small right sidebar, if any */
 }
 
 /* Ensure the layout adapts well on smaller screens */
@@ -83,60 +80,27 @@ p, li {
   }
 }
 
-/*
-Change size of profile avatar in left sidebar
-*/
-@media (min-width: 80em) {
+/* Profile avatar adjustments */
 .author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 120px;
+  width: 120px; /* Set width for profile image */
   height: 120px;
-  @include breakpoint($large) {
-    display: block;
-    width: auto;
-    height: auto;
-  }
-  img {
-    max-width: 250px;
-    border-radius: 50%;
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
-    }
-  }
-}
+  border-radius: 50%; /* Make it circular */
+  margin-bottom: 15px; /* Space below image */
 }
 
-// Accessibility code snippets
-//code { padding: .25em .5em; font-size: 85%; color: #C04343; background-color: #F9F9F9; border-radius: 3px; }
-/* Literal.Number */
+/* Accessibility and syntax highlighting */
 .highlight .s { color: #C04343; }
-/* Literal.String */
 .highlight .na { color: #8B38D1; }
-/* Name.Function */
 .highlight .nl { color: #4467E9; }
-/* Name.Namespace */
 .highlight .nt { color: #2771B9; }
-/* Literal.Number */
 .highlight .m { color: #A46123; }
-/* Text.Whitespace */
 .highlight .mf { color: #A46123; }
-/* Literal.Number.Float */
 .highlight .mh { color: #A46123; }
-/* Literal.Number.Hex */
 .highlight .mi { color: #A46123; }
-/* Literal.Number.Integer */
-.highlight .mo { color: #A46123; }
-/* Name.Attribute */
 .highlight .nb { color: #4E7450; }
-
-.highlight .n  { color: #4E7450; }
-/* Comment.Preproc */
+.highlight .n { color: #4E7450; }
 .highlight .c1 { color: #707070; }
-/* Comment.Single */
 .highlight .cs { color: #707070; }
-
-.highlight .c  { color: #707070; }
-/* Name.Builtin */
+.highlight .c { color: #707070; }
 .highlight .nc { color: #008538; }
+
