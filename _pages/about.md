@@ -19,7 +19,7 @@ I was fortunate to receive the "Premio Lorenzo Brunetta", awarded to the best Ph
 My research focuses on convex optimization, with a strong emphasis on first-order methods. I am interested in Frank-Wolfe algorithms for solving convex problems with structured constraints. My aim is to contribute to both the theoretical understanding of these methods and their application to real-world optimization challenges.  
 During my PhD, I also explored the integration of machine learning predictors into mathematical programming formulations and the distance geometry problem.  
 
-Check out my [Papers](/papers/) page for more details on my research.
+Check out my [papers](/publications/) page for more details on my research.
 
 <script type="application/ld+json">
 {
