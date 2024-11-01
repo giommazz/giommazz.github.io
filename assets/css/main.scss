@@ -52,50 +52,36 @@ p, li {
     font-size: 1.1em; /* Adjust paragraph and list font size */
 }
 
-
-
 /* Custom layout adjustments for columns */
-
-/* Target the overall layout grid */
-.layout__sidebar-left,
-.layout__main,
-.layout__sidebar-right {
-display: flex;
-flex-direction: column;
-}
 
 /* Make the left sidebar smaller */
 .layout__sidebar-left {
-flex-basis: 20%; /* Adjust the width of the left sidebar */
-max-width: 200px; /* Optional max-width if needed */
+  flex-basis: 15%; /* Make the left sidebar smaller */
+  max-width: 180px;
 }
 
 /* Make the main content area larger */
 .layout__main {
-flex-basis: 60%; /* Set the main content width */
-max-width: 800px; /* Optional max-width if needed */
+  flex-basis: 70%; /* Give more space to main content */
+  max-width: 1200px; /* Increase the maximum width of main content */
 }
 
 /* Make the right sidebar smaller */
 .layout__sidebar-right {
-flex-basis: 20%; /* Adjust the width of the right sidebar */
-max-width: 200px; /* Optional max-width if needed */
+  flex-basis: 15%; /* Make the right sidebar smaller */
+  max-width: 180px;
 }
 
 /* Ensure the layout adapts well on smaller screens */
 @media screen and (max-width: 768px) {
-.layout__sidebar-left,
-.layout__sidebar-right {
-display: none; /* Hide sidebars on smaller screens for readability */
+  .layout__sidebar-left,
+  .layout__sidebar-right {
+    display: none; /* Hide sidebars on smaller screens for readability */
+  }
+  .layout__main {
+    flex-basis: 100%; /* Expand main content to full width */
+  }
 }
-.layout__main {
-flex-basis: 100%; /* Expand main content to full width */
-}
-}
-
-
-
-
 
 /*
 Change size of profile avatar in left sidebar
