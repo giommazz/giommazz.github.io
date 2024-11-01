@@ -18,7 +18,7 @@ Increase font sizes of the entire website.
 */
 
 html {
-  font-size: 13px; /* Base font size; increase as needed */
+  font-size: 12px; /* Base font size; increase as needed */
   @include breakpoint($medium) {
     font-size: 13px; /* Adjust for medium screens */
   }
