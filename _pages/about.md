@@ -20,7 +20,7 @@ My research focuses on convex optimization, with a strong emphasis on first-orde
 During my PhD, I explored the integration of machine learning predictors into mixed-integer (non)linear problems, and mathematical programming (in particular, the distance geometry problem).  
 
 My PhD thesis is [Algorithmic Configuration by Learning and Optimization](https://giommazz.github.io/files/phd_thesis_iommazzo.pdf){:target="_blank"}
-For mor details on my research, check out my [papers](/publications/) page, my [CV](/files/gabriele_iommazzo_cv_academic.pdf){:target="_blank"} or my [Google Scholar](https://scholar.google.com/citations?user=YUGK_ZIAAAAJ&hl=it){:target="_blank"}.
+For more details on my research, check out my [papers](/publications/) page, my [CV](/files/gabriele_iommazzo_cv_academic.pdf){:target="_blank"} or my [Google Scholar](https://scholar.google.com/citations?user=YUGK_ZIAAAAJ&hl=it){:target="_blank"}.
 
 <script type="application/ld+json">
 {
