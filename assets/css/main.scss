@@ -80,10 +80,31 @@ p, li {
   }
 }
 
+/*
+Change size of profile avatar in left sidebar
+*/
+@media (min-width: 80em) {
 /* Profile avatar adjustments */
 .author__avatar {
+  display: table-cell;
+  vertical-align: top;
+  width: 120px;
   width: 120px; /* Set width for profile image */
   height: 120px;
+  @include breakpoint($large) {
+    display: block;
+    width: auto;
+    height: auto;
+  }
+  img {
+    max-width: 250px;
+    border-radius: 50%;
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid $border-color;
+    }
+  }
+}
   border-radius: 50%; /* Make it circular */
   margin-bottom: 15px; /* Space below image */
 }
