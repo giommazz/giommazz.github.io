@@ -51,22 +51,24 @@ p, li {
 
 /* Custom layout adjustments for columns */
 
+/* Two-column layout adjustments */
+
 /* Make the left sidebar narrower */
 .layout__sidebar-left {
-  flex-basis: 15%; /* Make the left sidebar smaller */
-  max-width: 150px; /* Reduce max-width */
-  padding-right: 20px; /* Add some padding for spacing */
+  flex-basis: 20%; /* Left sidebar takes up 20% of the width */
+  max-width: 180px; /* Limit max-width */
+  padding-right: 20px; /* Add some padding to separate it from main content */
 }
 
-/* Make the main content area wider */
+/* Expand the main content area */
 .layout__main {
-  flex-basis: 80%; /* Give more space to main content */
-  max-width: 1000px; /* Increase max-width for main content */
+  flex-basis: 80%; /* Main content takes up the rest */
+  max-width: 1200px; /* Adjust as necessary */
 }
 
-/* Right sidebar (if present) */
+/* Hide the right sidebar if it exists */
 .layout__sidebar-right {
-  flex-basis: 5%; /* Small right sidebar, if any */
+  display: none; /* Completely hide the right sidebar */
 }
 
 /* Ensure the layout adapts well on smaller screens */
