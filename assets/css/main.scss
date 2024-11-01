@@ -20,13 +20,13 @@ Increase font sizes of the entire website.
 html {
   font-size: 12px; /* Base font size; increase as needed */
   @include breakpoint($medium) {
-    font-size: 12px; /* Adjust for medium screens */
+    font-size: 13px; /* Adjust for medium screens */
   }
   @include breakpoint($large) {
-    font-size: 14px; /* Adjust for large screens */
+    font-size: 15px; /* Adjust for large screens */
   }
   @include breakpoint($x-large) {
-    font-size: 16px; /* Adjust for extra-large screens */
+    font-size: 17px; /* Adjust for extra-large screens */
   }
 }
 
@@ -51,6 +51,14 @@ h3 {
 p, li {
     font-size: 1.1em; /* Adjust paragraph and list font size */
 }
+
+
+
+
+
+
+
+
 
 /*
 Change size of profile avatar in left sidebar
