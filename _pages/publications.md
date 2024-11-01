@@ -86,7 +86,7 @@ description: "Publications by Gabriele Iommazzo. Topics: convex optimization, Fr
 
 ---
 
-## International Journals
+## Journals
 
 - **Improved local models and new Bell inequalities via Frank-Wolfe algorithms**  
   S. Designolle, G. Iommazzo, M. Besançon, S. Knebel, P. Gelß, S. Pokutta   
