@@ -8,6 +8,32 @@ description: "Publications by Gabriele Iommazzo. Topics: convex optimization, Fr
 
 
 
+## Preprints
+
+- **A conditional gradient homotopy method with applications to Semidefinite Programming**  
+  P. Dvurechensky, G. Iommazzo, S. Shtern, M. Staudigl
+  (2025)  
+  [[ArXiv]](https://arxiv.org/abs/2207.03101){:target="_blank"} | 
+  <a href="javascript:void(0)" onclick="toggleBibtex('bibtex-dis25', 'copy-btn-dis25')" style="text-decoration: none; color: #006400;">[BibTeX]</a> 
+  <button id="copy-btn-dis25" onclick="copyBibtex('bibtex-dis25', 'copy-btn-dis25')" style="display:none; background:none; border:none; color: #006400; cursor:pointer;">&#128203; copy</button>
+  
+  <div id="bibtex-dis25" style="display:none; padding: 10px; border: 1px solid #ddd; margin-top: 10px; font-family: monospace; font-size: 12px; background-color: #d3d3d3; color: black; max-width: 600px; max-height: 150px; overflow: auto;">
+    <pre>
+@misc{DIS+25,
+      title={A conditional gradient homotopy method with applications to Semidefinite Programming}, 
+      author={Pavel Dvurechensky and Gabriele Iommazzo and Shimrit Shtern and Mathias Staudigl},
+      year={2025},
+      eprint={2207.03101},
+      archivePrefix={arXiv},
+      primaryClass={math.OC},
+      url={https://arxiv.org/abs/2207.03101}, 
+}
+    </pre>
+  </div>
+
+
+---
+
 ## Conference Proceedings
 
 - **A Learning-based Mathematical Programming Formulation for the Automatic Configuration of Optimization Solvers**  
