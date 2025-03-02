@@ -16,9 +16,11 @@ I am currently a postdoctoral researcher in the [IOL Group](https://iol.zib.de/)
 Previously, I completed a joint PhD in Computer Science at École Polytechnique, France, and Università di Pisa, Italy, mentored by [Claudia D’Ambrosio](https://www.lix.polytechnique.fr/Labo/Claudia.D'Ambrosio/){:target="_blank"}, [Antonio Frangioni](https://pages.di.unipi.it/frangio/){:target="_blank"} and [Leo Liberti](https://www.lix.polytechnique.fr/Labo/Leo.Liberti/){:target="_blank"}. I hold an MSc in Data Science and Business Informatics from Università di Pisa.  
 
 # Research
-My research focuses on convex optimization, with a strong emphasis on first-order methods. Recently I have been working with Frank-Wolfe algorithms for convex problems. On the theoretical side, my recent research on this topic has focused on exploiting the geometric properties of the problem at hand to achieve faster convergence rates, and on inexact oracles. On the application side, I have been studying the performance of Frank-Wolfe algorithms in several contexts, such as quantum nonlocality, optimization over product domains and semidefinite programming.
+My current research focuses on convex optimization, with a strong emphasis on first-order methods. 
+On the theoretical side, I recently worked on exploiting the geometric properties of the problem at hand to achieve faster convergence rates, and on inexact oracles.
+On the application side, I have been studying the performance of these algorithms in diverse contexts, with applications in quantum nonlocality, optimization over product domains and semidefinite programming.  
 
-During my PhD, I worked on mixed-integer linear and nonlinear programming, in particular the distance geometry problem, and I explored the integration of machine learning predictors and combinatorial optimization.  
+During my PhD, I worked on mixed-integer linear/nonlinear programming, in particular distance geometry on large graphs, and I studied the integration of machine learning predictors into combinatorial optimization problems.  
 My PhD thesis is [Algorithmic Configuration by Learning and Optimization](https://giommazz.github.io/files/phd_thesis_iommazzo.pdf){:target="_blank"}.  
 I was fortunate to receive the "Premio Lorenzo Brunetta", awarded to the best PhD thesis in operations research obtained in the years 2019--2021.
 
