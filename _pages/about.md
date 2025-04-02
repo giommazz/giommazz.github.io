@@ -19,9 +19,8 @@ Previously, I completed a joint PhD in Computer Science at École Polytechnique,
 My current research focuses on the design and analysis of algorithms for convex optimization, with a strong emphasis on high-dimensional problems and first-order methods.
 I recently studied the convergence properties of Frank--Wolfe methods when combined with nonsmooth optimization techniques to build inexact oracles, when applied to over product domains, and when used in barrier-based relaxation schemes.
 On the application side, I explored the computational performance of these algorithms in diverse contexts, with applications in quantum nonlocality, optimization over product domains and semidefinite programming.  
-During my PhD, I worked on mixed-integer linear/nonlinear programming, in particular distance geometry on large graphs, and I studied the integration of machine learning predictors into combinatorial optimization problems.
 
-During my PhD, I worked on mixed-integer linear/nonlinear programming, in particular distance geometry on large graphs, and I studied the integration of machine learning predictors into combinatorial optimization problems.  
+During my PhD, I worked on mixed-integer linear/nonlinear programming, in particular distance geometry on large graphs, and I investigated the integration of machine learning predictors into combinatorial optimization problems.  
 My PhD thesis is [Algorithmic Configuration by Learning and Optimization](https://giommazz.github.io/files/phd_thesis_iommazzo.pdf){:target="_blank"}.  
 I was fortunate to receive the "Premio Lorenzo Brunetta", awarded to the best PhD thesis in operations research obtained in the years 2019--2021.
 
