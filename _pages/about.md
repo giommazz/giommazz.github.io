@@ -13,11 +13,11 @@ description: "Gabriele Iommazzo, postdoctoral researcher (postdoc) at the Zuse I
 
 I am currently a postdoctoral researcher in the [IOL Group](https://iol.zib.de/){:target="_blank"} at the Zuse Institute Berlin, where I work with [Sebastian Pokutta](https://www.pokutta.com/){:target="_blank"} among others.  
 
-Previously, I completed a joint PhD in Computer Science at École Polytechnique, France, and Università di Pisa, Italy, mentored by [Claudia D’Ambrosio](https://www.lix.polytechnique.fr/Labo/Claudia.D'Ambrosio/){:target="_blank"}, [Antonio Frangioni](https://pages.di.unipi.it/frangio/){:target="_blank"} and [Leo Liberti](https://www.lix.polytechnique.fr/Labo/Leo.Liberti/){:target="_blank"}. I hold an MSc in Data Science and Business Informatics from Università di Pisa.  
+Previously, I completed a joint PhD in Computer Science at École Polytechnique, France, and Università di Pisa, Italy, mentored by [Claudia D’Ambrosio](https://www.lix.polytechnique.fr/Labo/Claudia.D'Ambrosio/){:target="_blank"}, [Antonio Frangioni](https://pages.di.unipi.it/frangio/){:target="_blank"} and [Leo Liberti](https://www.lix.polytechnique.fr/Labo/Leo.Liberti/){:target="_blank"}. I hold an MSc in Computer Science from Università di Pisa.  
 
 # Research
 My current research focuses on the design and analysis of algorithms for convex optimization, with a strong emphasis on high-dimensional problems and first-order methods.
-I recently studied the convergence properties of Frank--Wolfe methods when combined with nonsmooth optimization techniques to build inexact oracles, when applied to over product domains, and when used in barrier-based relaxation schemes.
+I recently studied the convergence properties of Frank--Wolfe methods when applied over product domains, when combined with nonsmooth optimization techniques to build inexact oracles, and when used in barrier-based relaxation schemes.
 On the application side, I explored the computational performance of these algorithms in diverse contexts, with applications in quantum nonlocality, optimization over product domains and semidefinite programming.  
 
 During my PhD, I worked on mixed-integer linear/nonlinear programming, in particular distance geometry on large graphs, and I investigated the integration of machine learning predictors into combinatorial optimization problems.  
