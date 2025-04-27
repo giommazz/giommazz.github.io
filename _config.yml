@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "default" # "air", "aqua", "contrast", "dark
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gabriele Iommazzo - Postodc, ZIB" # Site title
+title                    : "Gabriele Iommazzo - Researcher in Mathematical Optimization, Berlin DE" # Site title
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Gabriele Iommazzo" # Your name
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Gabriele Iommazzo"
   avatar           : "/images/fuji.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Postdoc at the Zuse Institute Berlin, working at the intersection of machine learning and convex optimization."
+  bio              : "Research at the intersection of convex optimization and machine learning."
   location         : "Berlin, DE"
   email            : "iommazzo@zib.de"
   googlescholar    : "https://scholar.google.com/citations?user=YUGK_ZIAAAAJ&hl=it"
