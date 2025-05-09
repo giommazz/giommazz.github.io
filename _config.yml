@@ -139,7 +139,7 @@ author:
       url: "https://orcid.org/0000-0003-3673-966X" # Replace with your ORCID ID
     - label: "arXiv"
       icon:  "ai ai-arxiv" 
-      url:   "https://arxiv.org/search/?searchtype=author&query=Iommazz%2C+G"
+      url:   "arxiv.org/search/?searchtype=author&query=Iommazzo%2C+G"
 
 # Site Footer
 footer:
