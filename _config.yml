@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Gabriele Iommazzo"
   avatar           : "/images/fuji.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Research at the intersection of convex optimization and machine learning."
+  bio              : "Research in convex optimization, mathematical programming and machine learning"
   location         : "Berlin, DE"
   email            : "iommazzo@zib.de"
   googlescholar    : "https://scholar.google.com/citations?user=YUGK_ZIAAAAJ&hl=it"
@@ -137,6 +137,9 @@ author:
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid" # Use ORCID’s Font Awesome class
       url: "https://orcid.org/0000-0003-3673-966X" # Replace with your ORCID ID
+    - label: "arXiv"
+      icon:  "ai ai-arxiv" 
+      url:   "https://arxiv.org/search/?searchtype=author&query=Iommazz%2C+G"
 
 # Site Footer
 footer:
