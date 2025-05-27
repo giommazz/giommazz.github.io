@@ -10,6 +10,28 @@ description: "Publications by Gabriele Iommazzo. Topics: convex optimization, Fr
 
 ## Preprints
 
+- **Linear Convergence of the Frank-Wolfe Algorithm over Product Polytopes**  
+  G. Iommazzo, D. Martínez-Rubio, F. Criado, E. Wirth, S. Pokutta  
+  (2025)  
+  [[ArXiv]](https://arxiv.org/abs/2505.11259){:target="_blank"} |
+  <a href="javascript:void(0)" onclick="toggleBibtex('bibtex-imc25', 'copy-btn-imc25')" style="text-decoration: none; color: #006400;">[BibTeX]</a>
+  <button id="copy-btn-imc25" onclick="copyBibtex('bibtex-imc25', 'copy-btn-imc25')" style="display:none; background:none; border:none; color: #006400; cursor:pointer;">&#128203; copy</button>
+
+  <div id="bibtex-imc25" style="display:none; padding: 10px; border: 1px solid #ddd; margin-top: 10px; font-family: monospace; font-size: 12px; background-color: #d3d3d3; color: black; max-width: 600px; max-height: 150px; overflow: auto;">
+    <pre>
+@misc{IMC+25,
+      title={Linear Convergence of the Frank-Wolfe Algorithm over Product Polytopes},
+      author={Gabriele Iommazzo and David Martínez-Rubio and Francisco Criado and Elias Wirth and Sebastian Pokutta},
+      year={2025},
+      eprint={2505.11259},
+      archivePrefix={arXiv},
+      primaryClass={math.OC},
+      url={https://arxiv.org/abs/2505.11259},
+}
+    </pre>
+  </div>
+
+
 - **A conditional gradient homotopy method with applications to Semidefinite Programming**  
   P. Dvurechensky, G. Iommazzo, S. Shtern, M. Staudigl
   (2025)  
