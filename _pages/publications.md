@@ -33,7 +33,8 @@ description: "Publications by Gabriele Iommazzo. Topics: convex optimization, Fr
 
 
 - **A conditional gradient homotopy method with applications to Semidefinite Programming**  
-  P. Dvurechensky, G. Iommazzo, S. Shtern, M. Staudigl
+  P. Dvurechensky, G. Iommazzo, S. Shtern, M. Staudigl  
+  To appear in IMA Journal of Numerical Analysis
   (2025)  
   [[ArXiv]](https://arxiv.org/abs/2207.03101){:target="_blank"} | 
   <a href="javascript:void(0)" onclick="toggleBibtex('bibtex-dis25', 'copy-btn-dis25')" style="text-decoration: none; color: #006400;">[BibTeX]</a> 
