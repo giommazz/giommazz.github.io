@@ -24,6 +24,13 @@ During my PhD, I worked on mixed-integer linear/nonlinear programming, in partic
 My PhD thesis is [Algorithmic Configuration by Learning and Optimization](https://giommazz.github.io/files/phd_thesis_iommazzo.pdf){:target="_blank"}.  
 I was fortunate to receive the "Premio Lorenzo Brunetta", awarded to the best PhD thesis in operations research obtained in the years 2019--2021.
 
+Interests (topics I worked or have been actively exploring):
+- Scalable first-order methods for convex optimization, notably Frank-Wolfe
+- Decomposition techniques for large-scale (nonsmooth) optimization problems, like column generation or bundle methods
+- Machine learning augmented optimization, particularly how to efficiently embed predictions into mathematical programming formulations
+- Time series forecasting
+
+
 For more details on my research, check out my papers [here](/publications/), on my [CV](/files/gabriele_iommazzo_cv_academic.pdf){:target="_blank"} or on my [Google Scholar](https://scholar.google.com/citations?user=YUGK_ZIAAAAJ&hl=it){:target="_blank"}.
 
 <script type="application/ld+json">
