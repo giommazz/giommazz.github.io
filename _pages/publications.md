@@ -31,31 +31,7 @@ description: "Publications by Gabriele Iommazzo. Topics: convex optimization, Fr
     </pre>
   </div>
 
-
-- **A conditional gradient homotopy method with applications to Semidefinite Programming**  
-  P. Dvurechensky, G. Iommazzo, S. Shtern, M. Staudigl  
-  [To appear in IMA Journal of Numerical Analysis]  
-  (2025)  
-  [[ArXiv]](https://arxiv.org/abs/2207.03101){:target="_blank"} | 
-  <a href="javascript:void(0)" onclick="toggleBibtex('bibtex-dis25', 'copy-btn-dis25')" style="text-decoration: none; color: #006400;">[BibTeX]</a> 
-  <button id="copy-btn-dis25" onclick="copyBibtex('bibtex-dis25', 'copy-btn-dis25')" style="display:none; background:none; border:none; color: #006400; cursor:pointer;">&#128203; copy</button>
-  
-  <div id="bibtex-dis25" style="display:none; padding: 10px; border: 1px solid #ddd; margin-top: 10px; font-family: monospace; font-size: 12px; background-color: #d3d3d3; color: black; max-width: 600px; max-height: 150px; overflow: auto;">
-    <pre>
-@misc{DIS+25,
-      title={A conditional gradient homotopy method with applications to Semidefinite Programming}, 
-      author={Pavel Dvurechensky and Gabriele Iommazzo and Shimrit Shtern and Mathias Staudigl},
-      year={2025},
-      eprint={2207.03101},
-      archivePrefix={arXiv},
-      primaryClass={math.OC},
-      url={https://arxiv.org/abs/2207.03101}, 
-}
-    </pre>
-  </div>
-
-
----
+-----------------------------------------------------------------------------------------------------------
 
 ## Conference Proceedings
 
@@ -82,7 +58,7 @@ description: "Publications by Gabriele Iommazzo. Topics: convex optimization, Fr
     </pre>
   </div>
 
----
+-----------------------------------------------------------------------------------------------------------
 
 - **A Cycle-based Formulation for the Distance Geometry Problem**  
   L. Liberti, G. Iommazzo, C. Lavor, N. Maculan   
@@ -108,7 +84,7 @@ description: "Publications by Gabriele Iommazzo. Topics: convex optimization, Fr
     </pre>
   </div>
 
----
+-----------------------------------------------------------------------------------------------------------
 
 - **Learning to Configure Mathematical Programming Solvers by Mathematical Programming**  
   G. Iommazzo, C. D'Ambrosio, A. Frangioni, L. Liberti   
@@ -133,9 +109,36 @@ description: "Publications by Gabriele Iommazzo. Topics: convex optimization, Fr
     </pre>
   </div>
 
----
+-----------------------------------------------------------------------------------------------------------
 
-## Journals
+## Journal articles
+
+- **A conditional gradient homotopy method with applications to Semidefinite Programming**  
+  P. Dvurechensky, G. Iommazzo, S. Shtern, M. Staudigl  
+  *IMA Journal of Numerical Analysis* (2025)  
+  [[DOI]](https://academic.oup.com/imajna/advance-article-abstract/doi/10.1093/imanum/draf059/8208252){:target="_blank"} | 
+  [[ArXiv]](https://arxiv.org/abs/2207.03101){:target="_blank"} | 
+  <a href="javascript:void(0)" onclick="toggleBibtex('bibtex-dis25', 'copy-btn-dis25')" style="text-decoration: none; color: #006400;">[BibTeX]</a> 
+  <button id="copy-btn-dis25" onclick="copyBibtex('bibtex-dis25', 'copy-btn-dis25')" style="display:none; background:none; border:none; color: #006400; cursor:pointer;">&#128203; copy</button>
+  
+  <div id="bibtex-dis25" style="display:none; padding: 10px; border: 1px solid #ddd; margin-top: 10px; font-family: monospace; font-size: 12px; background-color: #d3d3d3; color: black; max-width: 600px; max-height: 150px; overflow: auto;">
+    <pre>
+@article{DIS+25,
+    author = {Dvurechensky, Pavel and Iommazzo, Gabriele and Shtern, Shimrit and Staudigl, Mathias},
+    title = {A conditional gradient homotopy method with applications to semidefinite programming},
+    journal = {IMA Journal of Numerical Analysis},
+    pages = {draf059},
+    year = {2025},
+    month = {07},
+    issn = {0272-4979},
+    doi = {10.1093/imanum/draf059},
+    url = {https://doi.org/10.1093/imanum/draf059},
+    eprint = {https://academic.oup.com/imajna/advance-article-pdf/doi/10.1093/imanum/draf059/63803235/draf059.pdf},
+}
+    </pre>
+  </div>
+
+-----------------------------------------------------------------------------------------------------------
 
 - **Improved Local Models and New Bell Inequalities via Frank-Wolfe Algorithms**  
   S. Designolle, G. Iommazzo, M. Besançon, S. Knebel, P. Gelß, S. Pokutta   
@@ -163,7 +166,7 @@ description: "Publications by Gabriele Iommazzo. Topics: convex optimization, Fr
     </pre>
   </div>
 
----
+-----------------------------------------------------------------------------------------------------------
 
 - **Cycle-based Formulations in Distance Geometry**  
   L. Liberti, G. Iommazzo, C. Lavor, N. Maculan   
@@ -190,7 +193,7 @@ description: "Publications by Gabriele Iommazzo. Topics: convex optimization, Fr
     </pre>
   </div>
 
----
+-----------------------------------------------------------------------------------------------------------
 
 ## Book Chapters
 
@@ -219,7 +222,7 @@ description: "Publications by Gabriele Iommazzo. Topics: convex optimization, Fr
     </pre>
   </div>
 
----
+-----------------------------------------------------------------------------------------------------------
 
 ## PhD Thesis
 
