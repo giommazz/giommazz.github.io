@@ -12,7 +12,7 @@ description: "Publications by Gabriele Iommazzo. Topics: convex optimization, Fr
 
 - **Linear Convergence of the Frank-Wolfe Algorithm over Product Polytopes**  
   G. Iommazzo, D. Martínez-Rubio, F. Criado, E. Wirth, S. Pokutta  
-  *under review* (2025)  
+  *Under review* (2025)  
   [[ArXiv]](https://arxiv.org/abs/2505.11259){:target="_blank"} |
   <a href="javascript:void(0)" onclick="toggleBibtex('bibtex-imc25', 'copy-btn-imc25')" style="text-decoration: none; color: #006400;">[BibTeX]</a>
   <button id="copy-btn-imc25" onclick="copyBibtex('bibtex-imc25', 'copy-btn-imc25')" style="display:none; background:none; border:none; color: #006400; cursor:pointer;">&#128203; copy</button>
